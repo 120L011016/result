@@ -1,0 +1,7 @@
+_0  什么也没改
+—2 Factor GUM: True  #yes
+  LOSS_FACTOR: 1   #yes
+  MISH: True  #yes
+  DISTANCE: False  #yes
+-1   再-2 上把FACTOR 改为了5
+-4  再-2 上把FACTOR 改为了4
